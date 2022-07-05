@@ -1,0 +1,10 @@
+.border_table { border-collapse: collapse; border: 1px solid #000000; }
+.border_table td { border: 1px solid #000000; }
+.border_table th { border: 1px solid #000000; background-color: #C9E0ED;}
+
+.form_table { border: 0px; width: 60%;}
+.flash_info {
+color: #00529B;
+background-color: #BDE5F8;
+/*background-image: url('http://www.lonewolfdesigns.co.uk/images/icons/info.png');*/
+}

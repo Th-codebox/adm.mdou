@@ -1,0 +1,1596 @@
+2016/10/21 14:08:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:09:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:09:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:09:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:09:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:09:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:09:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:12:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:12:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:12:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/spa...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/spacer.gif
+2016/10/21 14:12:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:14:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:14:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:14:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:14:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:14:40 [warning] [application] Не удалось присвоить небезопасный атрибут "nurseries".
+in /usr/local/www/detsad/nursery/protected/controllers/front/SiteController.php (491)
+in /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php (26)
+in /usr/local/www/detsad/nursery/index.php (14)
+2016/10/21 14:14:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:14:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:14:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:15:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:25:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:25:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:25:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:25:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "wp-login.php".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('wp-login.php')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/wp-login.php
+2016/10/21 14:29:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:29:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:29:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:29:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:29:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:32:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:32:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:32:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:32:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:34:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:34:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:34:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:35:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:35:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:35:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:35:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:35:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:36:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:36:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:36:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:36:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:37:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:37:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:38:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:38:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:39:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:42:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:42:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:42:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:42:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/spa...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/spacer.gif
+2016/10/21 14:42:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:42:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:42:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:42:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:42:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:42:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:42:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:42:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:43:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:43:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:43:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:43:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:43:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:43:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:43:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:43:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:43:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:43:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:43:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:43:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:44:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:44:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:44:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/spa...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/spacer.gif
+2016/10/21 14:44:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:44:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:44:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:44:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:44:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:44:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:44:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:44:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:44:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:45:02 [warning] [application] Не удалось присвоить небезопасный атрибут "nurseries".
+in /usr/local/www/detsad/nursery/protected/controllers/front/SiteController.php (491)
+in /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php (26)
+in /usr/local/www/detsad/nursery/index.php (14)
+2016/10/21 14:45:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:45:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:45:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:45:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:45:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:45:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:46:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:46:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:46:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:47:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:47:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:47:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:48:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:48:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:48:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:48:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:48:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:48:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:51:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:52:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:52:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:52:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:54:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:54:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:54:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:54:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 14:54:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 14:54:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 14:56:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:01:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:01:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 15:01:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 15:02:50 [warning] [application] Не удалось присвоить небезопасный атрибут "nurseries".
+in /usr/local/www/detsad/nursery/protected/controllers/back/RequestController.php (169)
+in /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php (26)
+in /usr/local/www/detsad/nursery/backend.php (13)
+2016/10/21 15:05:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:06:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:06:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:06:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 15:06:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 15:08:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:08:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:08:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 15:08:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 15:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:09:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:09:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 15:09:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 15:09:45 [warning] [application] Не удалось присвоить небезопасный атрибут "nurseries".
+in /usr/local/www/detsad/nursery/protected/controllers/front/SiteController.php (491)
+in /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php (26)
+in /usr/local/www/detsad/nursery/index.php (14)
+2016/10/21 15:09:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:09:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 15:09:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
+2016/10/21 15:10:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:10:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "admin".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('admin')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/admin
+2016/10/21 15:10:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:10:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/menu_border.gif".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('images/menu_bor...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/images/menu_border.gif
+2016/10/21 15:10:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/bg_menu_sh.gif".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('images/bg_menu_...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/images/bg_menu_sh.gif
+2016/10/21 15:10:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "js/lightbox/jquery.lightbox-0.5.css".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php:328
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('js/lightbox/jqu...')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#6 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#7 {main} REQUEST_URI=/js/lightbox/jquery.lightbox-0.5.css
+2016/10/21 15:10:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/men...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/menu_border.gif
+2016/10/21 15:10:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php:439
+Stack trace:
+#0 /usr/local/www/detsad/yii_1.1.4/framework/web/CController.php(262): CController->missingAction('images')
+#1 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(324): CController->run('images')
+#2 /usr/local/www/detsad/yii_1.1.4/framework/web/CWebApplication.php(121): CWebApplication->runController('site/images/bg_...')
+#3 /usr/local/www/detsad/yii_1.1.4/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /usr/local/www/detsad/nursery/protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#6 /usr/local/www/detsad/yii_1.1.4/framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#7 /usr/local/www/detsad/nursery/index.php(14): CComponent->__call('runEnd', Array)
+#8 /usr/local/www/detsad/nursery/index.php(14): CWebApplication->runEnd('front')
+#9 {main} REQUEST_URI=/site/images/bg_menu_sh.gif
